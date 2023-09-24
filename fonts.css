@@ -1,0 +1,49 @@
+    .main-tittle {
+        font-family: 'Roboto', serif;
+        font-weight: 900;
+    }
+
+    .description {
+        font-family: 'Roboto', serif;
+        font-weight: 700;
+    }
+
+    .article-tittle {
+        font-family: C, serif;
+        font-weight: 700;
+    }
+
+    .article {
+        font-family: 'Roboto', serif;
+        font-weight: 400;
+    }
+
+    .article-footer {
+        font-family: 'Raleway', serif;
+        font-weight: 400;
+    }
+
+    .description-portfolio {
+        font-family:'Roboto' , serif;
+        font-weight: 500;        
+    }
+
+    .article-portfolio {
+        font-family: 'Roboto' , serif;
+        font-weight: 700;
+    }
+
+    .projects {
+        font-family: 'Roboto' , serif;
+        font-weight: 400;
+    }
+
+    .article-footer-portfolio {
+        font-family: 'Raleway' , serif;
+        font-weight: 700;
+    }
+
+    .footer-portfolio {
+        font-family: 'Roboto' , serif;
+        font-weight: 400;
+    }
