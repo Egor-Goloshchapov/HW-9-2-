@@ -1,0 +1,34 @@
+:root {
+    color: #2196F3;
+    color: #FFF;
+    color: #757575;
+    color: #212121;
+}
+
+.description {
+    background-color: #2196F3;
+}
+
+.article-footer , header {
+    color: #2196F3;
+}
+
+.main-tittle {
+    color: #FFF;
+}
+
+.article {
+    color: #757575;
+}
+
+.job {
+    color: #757575;
+}
+
+.footer {
+    color: #757575;
+}
+
+.article-tittle {
+    color: #212121;
+}
