@@ -1,49 +1,89 @@
-    .main-tittle {
-        font-family: 'Roboto', serif;
-        font-weight: 900;
-    }
+body {
+    font-family: 'Roboto';
+   };
 
-    .description {
-        font-family: 'Roboto', serif;
-        font-weight: 700;
-    }
+   .article {
+    color: #757575;
+    font-size: 14px;
+    font-weight: 400; 
+   }
 
-    .article-tittle {
-        font-family: C, serif;
-        font-weight: 700;
-    }
+   .article-tittle {
+    color: #212121;
+font-size: 14px;
+font-weight: 700;
+   } 
 
-    .article {
-        font-family: 'Roboto', serif;
-        font-weight: 400;
-    }
+   .article-tittle-work {
+    color: #212121;
+text-align: center;
+font-size: 36px;
+font-weight: 700;
+   }
 
-    .article-footer {
-        font-family: 'Raleway', serif;
-        font-weight: 400;
-    }
+   .article-tittle-team {
+    color: #212121;
+text-align: center;
+font-size: 36px;
+font-weight: 700;
+   }
 
-    .description-portfolio {
-        font-family:'Roboto' , serif;
-        font-weight: 500;        
-    }
+   .job {
+    color: #757575;
+text-align: left;
+font-size: 16px;
+font-weight: 400;
+   }
 
-    .article-portfolio {
-        font-family: 'Roboto' , serif;
-        font-weight: 700;
-    }
+   .main-tittle {
+    color: #0c0c0c;
+text-align: center;
+font-size: 44px;
+font-weight: 900;
+   }
 
-    .projects {
-        font-family: 'Roboto' , serif;
-        font-weight: 400;
-    }
+   .description {
+    color: #FFF;
+text-align: center;
+font-size: 16px;
+font-weight: 700;
+   }
 
-    .article-footer-portfolio {
-        font-family: 'Raleway' , serif;
-        font-weight: 700;
-    }
+   .header-portfolio {
+    color: #2196F3;
+font-family: Raleway;
+font-size: 26px;
+font-weight: 700;
+   }
 
-    .footer-portfolio {
-        font-family: 'Roboto' , serif;
-        font-weight: 400;
-    }
+   .description-portfolio {
+    color: #212121;
+text-align: center;
+font-size: 16px;
+font-weight: 500;
+   }
+
+   .article-portfolio {
+    color: #212121;
+font-size: 18px;
+font-weight: 700;
+   }
+
+   .Projects {
+    color: #757575;
+font-size: 16px;
+font-weight: 400;
+   }
+
+   .article-footer-portfolio {
+    color: #2196F3;
+font-family: Raleway;
+font-size: 26px;
+font-weight: 700;
+   }
+
+   .footer-portfolio {
+color: #757575;
+font-size: 14px;
+font-weight: 400;
+   }
